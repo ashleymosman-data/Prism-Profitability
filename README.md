@@ -18,8 +18,8 @@ This project demonstrates how I used SQL and Excel to analyze business health an
 - ROAS
 
 ## 🔗 Files
-- 📄 [View SQL Queries](SQL/segmentation_queries.sql)
-- 🧠 [View the Presentation](Slideshow/presentation.pdf)
+- 📄 [View SQL Queries](SQL/kpi_queries.sql)
+- 🧠 [View the Presentation](Slideshow/prism_profitability_presentation.pptx)
 
 ## 📬 Contact
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ashley-mosman-95aa2b239/) if you’d like to connect!

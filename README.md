@@ -19,7 +19,7 @@ This project demonstrates how I used SQL and Excel to analyze business health an
 
 ## 🔗 Files
 - 📄 [View SQL Queries](SQL/kpi_queries.sql)
-- 🧠 [View the Presentation](Slideshow/prism_profitability_presentation.pptx)
+- 🧠 [View the Presentation](Slideshow/prism_profitability_slideshow.pptx)
 
 ## 📬 Contact
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/ashley-mosman-95aa2b239/) if you’d like to connect!
